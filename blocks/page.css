@@ -1,0 +1,39 @@
+h1,
+h2,
+p {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.page {
+  display: flex;
+  flex-direction: column;
+  max-width: 1280px;
+  //min-height: 1883px;
+  margin: 0 auto;
+  background-color: #2a2c2f;
+  color: #ffffff;
+  font-family: "Inter", "Arial", sans-serif;
+  font-weight: normal;
+}
+
+@media screen and (max-width: 768px) {
+  .page {
+    max-width: 768px;
+    min-height: 1659px;
+  }
+
+  @media screen and (max-width: 544px) {
+    .page {
+      max-width: 544px;
+      min-height: 1380px;
+    }
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .page {
+    max-width: 320px;
+    min-height: 1550px;
+  }
+}
