@@ -20,13 +20,11 @@ p {
 @media screen and (max-width: 768px) {
   .page {
     max-width: 768px;
-    min-height: 1659px;
   }
 
   @media screen and (max-width: 544px) {
     .page {
       max-width: 544px;
-      min-height: 1380px;
     }
   }
 }
@@ -34,6 +32,5 @@ p {
 @media screen and (max-width: 320px) {
   .page {
     max-width: 320px;
-    min-height: 1550px;
   }
 }
