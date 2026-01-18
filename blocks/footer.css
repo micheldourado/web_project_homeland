@@ -1,13 +1,12 @@
 .footer {
   display: flex;
   flex-direction: column;
-  min-width: 166px;
-  max-heght: 16px;
+  min-width: 100%;
 }
 
 .footer__copyright {
   display: flex;
-  margin: auto;
+  margin: 0 auto;
   margin-bottom: 24px;
 
   font-size: 14px;

@@ -32,5 +32,8 @@ p {
 @media screen and (max-width: 320px) {
   .page {
     max-width: 320px;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    hyphens: auto;
   }
 }

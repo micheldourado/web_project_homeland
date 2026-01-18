@@ -93,10 +93,11 @@
   .lead {
     max-width: 320px;
     min-height: 144px;
+    margin: 0px;
   }
 
   .lead__title {
-    max-width: 228px;
+    max-width: 71%; //228px
     min-height: 88px;
     margin-bottom: 16px;
     font-size: 40px;
@@ -104,7 +105,7 @@
   }
 
   .lead__subtitle {
-    max-width: 288px;
+    max-width: 90%; //288px
     min-height: 40px;
     margin-bottom: 40px;
     font-size: 16px;
