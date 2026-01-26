@@ -17,6 +17,14 @@ p {
   font-weight: normal;
 }
 
+/*
+- testar break points em 470px, 665px, 999px, 1100px e 1500px
+- copiar do Figma apenas tamanhos e cores das fontes.
+- comprimir imagens
+- novas seções photo-grid e places, use grid layout.
+
+*/
+
 @media screen and (max-width: 768px) {
   .page {
     max-width: 768px;
