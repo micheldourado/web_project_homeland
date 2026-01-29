@@ -5,6 +5,21 @@ p {
   margin-bottom: 0;
   padding: 0;
 }
+a,
+a:hover {
+  text-decoration: none;
+  color: inherit;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  margin: 0;
+  padding: 0;
+}
 
 .page {
   display: flex;
