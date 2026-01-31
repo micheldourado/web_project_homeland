@@ -223,7 +223,7 @@
   }
 
   .place__button {
-    width: 83%;
+    width: auto;
     margin: 0 auto;
     font-size: 14px;
   }
