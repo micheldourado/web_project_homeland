@@ -7,17 +7,17 @@
 @font-face {
   src: url("fonts/Inter-web/Inter-Black.woff2") format("woff2");
   font-family: "Inter";
-  font-weight: black;
+  font-weight: 900;
 }
 
 @font-face {
   src: url("fonts/Inter-web/Inter-Bold.woff2") format("woff2");
   font-family: "Inter";
-  font-weight: bold;
+  font-weight: 700;
 }
 
 @font-face {
   src: url("fonts/Inter-web/Inter-SemiBold.woff2") format("woff2");
   font-family: "Inter";
-  font-weight: semi-bold;
+  font-weight: 600;
 }
